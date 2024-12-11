@@ -1,0 +1,114 @@
+{
+  "cars": [
+    {
+      "idCar": 1,
+      "name": "Audi A4",
+      "model": "2023",
+      "price": 45000.00,
+      "brand": "Audi",
+      "colour": "Negro",
+      "mileage": 15000,
+      "numberOfDoors": 4,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 2,
+      "name": "BMW Serie 3",
+      "model": "2023",
+      "price": 50000.00,
+      "brand": "BMW",
+      "colour": "Blanco",
+      "mileage": 12000,
+      "numberOfDoors": 4,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 3,
+      "name": "Mercedes-Benz C-Class",
+      "model": "2023",
+      "price": 55000.00,
+      "brand": "Mercedes-Benz",
+      "colour": "Azul",
+      "mileage": 8000,
+      "numberOfDoors": 4,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 4,
+      "name": "Fiat 500",
+      "model": "2023",
+      "price": 20000.00,
+      "brand": "Fiat",
+      "colour": "Rojo",
+      "mileage": 5000,
+      "numberOfDoors": 2,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 5,
+      "name": "Lamborghini Huracán",
+      "model": "2023",
+      "price": 250000.00,
+      "brand": "Lamborghini",
+      "colour": "Verde",
+      "mileage": 3000,
+      "numberOfDoors": 2,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 6,
+      "name": "Ferrari F8 Tributo",
+      "model": "2023",
+      "price": 280000.00,
+      "brand": "Ferrari",
+      "colour": "Amarillo",
+      "mileage": 4000,
+      "numberOfDoors": 2,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 7,
+      "name": "Jaguar XE",
+      "model": "2023",
+      "price": 40000.00,
+      "brand": "Jaguar",
+      "colour": "Gris",
+      "mileage": 10000,
+      "numberOfDoors": 4,
+      "fuelType": "Gasolina"
+    },
+    {
+      "idCar": 8,
+    "name": "Land Rover Range Rover",
+    "model": "2023",
+    "price": 90000.00,
+    "brand": "Land Rover",
+    "colour": "Blanco",
+    "mileage": 7000,
+    "numberOfDoors": 5,
+    "fuelType": "Diésel"
+  },
+    {
+      "idCar": 9,
+    "name": "Aston Martin DB11",
+    "model": "2023",
+    "price": 205000.00,
+    "brand": "Aston Martin",
+    "colour": "Negro",
+    "mileage": 2000,
+    "numberOfDoors": 2,
+    "fuelType": "Gasolina"
+  },
+    {
+      "idCar": 10,
+    "name": "Mini Cooper S",
+    "model": "2023",
+    "price": 30000.00,
+    "brand": "Mini",
+    "colour": "Verde",
+    "mileage": 6000,
+    "numberOfDoors": 2,
+    "fuelType": "Gasolina"
+     }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "clients": [
+    {
+      "idClient": 1,
+      "name": "Juan Pérez",
+      "nationality": "Mexican",
+      "phone": "+52 123 456 7890",
+      "email": "juan.perez@example.com",
+      "address": "123 Main St, Mexico City"
+    },
+    {
+      "idClient": 2,
+      "name": "Anna Schmidt",
+      "nationality": "German",
+      "phone": "+49 30 12345678",
+      "email": "anna.schmidt@example.com",
+      "address": "Berliner Str. 45, Berlin"
+    },
+    {
+      "idClient": 3,
+      "name": "Luca Rossi",
+      "nationality": "Italian",
+      "phone": "+39 06 12345678",
+      "email": "luca.rossi@example.com",
+      "address": "Via Roma 10, Roma"
+    },
+    {
+      "idClient": 4,
+      "name": "Emily Johnson",
+      "nationality": "British",
+      "phone": "+44 20 7946 0958",
+      "email": "emily.johnson@example.com",
+      "address": "221B Baker St, London"
+    },
+    {
+      "idClient": 5,
+      "name": "Carlos García",
+      "nationality": "Spanish",
+      "phone": "+34 91 123 4567",
+      "email": "carlos.garcia@example.com",
+      "address": "Calle Gran Vía, Madrid"
+    },
+    {
+      "idClient": 6,
+      "name": "Sofia Müller",
+      "nationality": "German",
+      "phone": "+49 89 1234567",
+      "email": "sofia.mueller@example.com",
+      "address": "Münchener Str. 12, München"
+    },
+    {
+      "idClient": 7,
+      "name": "Marco Bianchi",
+      "nationality": "Italian",
+      "phone": "+39 02 12345678",
+      "email": "marco.bianchi@example.com",
+      "address": "Piazza Duomo, Milano"
+    },
+    {
+      "idClient": 8,
+      "name": "Olivia Brown",
+      "nationality": "British",
+      "phone": "+44 161 123 4567",
+      "email": "olivia.brown@example.com",
+      "address": "#10 Downing St, London"
+    },
+    {
+      "idClient": 9,
+      "name": "Luis Fernández",
+      "nationality": "Spanish",
+      "phone": "+34 95 1234567",
+      "email": "luis.fernandez@example.com",
+      "address": "Avenida de la Constitución, Sevilla"
+    },
+    {
+      "idClient": 10,
+      "name": "Chloe Davis",
+      "nationality": "British",
+      "phone": "+44 20 7946 0959",
+      "email": "chloe.davis@example.com",
+      "address": "The Shard, London"
+    }
+  ]
+}
